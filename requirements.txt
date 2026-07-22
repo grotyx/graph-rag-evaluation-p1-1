@@ -1,0 +1,5 @@
+# Evaluation code dependencies (Python 3.11)
+numpy>=1.24
+scipy>=1.10
+# LLM/API calls use the standard library (urllib); the GPT judge shells out to the Codex CLI.
+# The retrieval backend (retrieve_v2) is not included — see README.
