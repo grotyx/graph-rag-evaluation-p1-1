@@ -1,7 +1,8 @@
 # Evaluation code — spine-surgery RAG benchmark (P1-1)
 
-This repository contains the **evaluation code** for the study *"Study design: shared generator with
-system-specific retrieval context"* (P1-1). It documents the exact procedure used to generate answers, judge
+This repository contains the **evaluation code** for the study *"Clinician-rated usefulness diverges from
+correctness in retrieval-grounded and ungrounded language-model systems for spine-surgery evidence
+synthesis"* (P1-1). It documents the exact procedure used to generate answers, judge
 them with LLMs, and compute retrieval metrics, so that the reported analyses are transparent and inspectable.
 
 > **Scope.** This is a *method-documentation* release, not a turnkey system. The evaluation scripts call an
